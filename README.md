@@ -58,5 +58,9 @@ __6-__ Executar o programa
 ## Para rodar arquivos em Batch no HYDRUS
 
 __1-__ É necessário atualizar o arquivo run.bat, pois o comando para rodar o Hydrus está em letras minúsculas. Alterar h2d_calc para H2D_Calc
+
+
 __2-__ Colocar os arquivos gerados pelo GeradorAutomáticoHydrus (level_01.dir + run.bat + paths...) na pasta do Hydrus (C:\Program Files (x86)\PC-Progress\HYDRUS 1.xx)
+
+
 __3-__ Executar o arquivo run.bat. Não é necessário rodar como administrador
