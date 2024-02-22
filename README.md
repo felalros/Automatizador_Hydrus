@@ -39,13 +39,13 @@ __2-__ Colocar seu arquivo de referência a ser copiado na pasta Pattern
 __3-__ Na pasta "Pattern" renomear arquivo e pasta do Hydrus a ser copiado para "Eq_Empirica"
 
 __Ex.:__ 
-```markdown
+
   O nome do arquivo deverá ser:
-
+```markdown
   Eq_empirica.h3d
-
+```
   O nome da pasta deverá ser:
-
+```markdown
   H3D_Eq_empirica
 ```
 __4-__ Abrir o arquivo "Selector.IN" e substituir os parâmetros a serem alterados para
