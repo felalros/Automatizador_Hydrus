@@ -8,11 +8,17 @@ Please cite the following paper in any publication in which you find Automatizad
 DOI:  https://doi.org/10.17771/PUCRio.acad.33363
 
 __Citation styles:__
+
 __ABNT:__
+
 ROSA, F. A. Um estudo de procedimentos numéricos e experimentais para uso no ensaio de infiltração monitorada. 2017. 131 f. Dissertação de Mestrdo (Mestrado) - Departamento de Engenharia Civil e Ambiental - DEC, Pontifícia Universidade Católica do Rio De Janeiro - PUC-RIO, Rio de Janeiro. Disponível em: https://doi.org/10.17771/PUCRio.acad.33363.
 
+
 __APA:__
+
 Rosa, F. A. (2017). Um estudo de procedimentos numéricos e experimentais para uso no ensaio de infiltração monitorada. [Dissertação de Mestrdo, Pontifícia Universidade Católica do Rio De Janeiro - PUC-RIO]. https://doi.org/10.17771/PUCRio.acad.33363. 
 
+
 __Chicago:__
+
 Rosa, Felipe Alves 2017. « Um estudo de procedimentos numéricos e experimentais para uso no ensaio de infiltração monitorada. » Mestrado Dissertação de Mestrdo, Departamento de Engenharia Civil e Ambiental - DEC, Pontifícia Universidade Católica do Rio De Janeiro - PUC-RIO. https://doi.org/10.17771/PUCRio.acad.33363.
