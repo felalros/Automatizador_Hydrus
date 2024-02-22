@@ -23,10 +23,10 @@ __Chicago:__
 
 Rosa, Felipe Alves 2017. « Um estudo de procedimentos numéricos e experimentais para uso no ensaio de infiltração monitorada. » Mestrado Dissertação de Mestrdo, Departamento de Engenharia Civil e Ambiental - DEC, Pontifícia Universidade Católica do Rio De Janeiro - PUC-RIO. https://doi.org/10.17771/PUCRio.acad.33363.
 
-##Instalação
+## Instalação
 Ao rodar o arquivo .exe pode ser exibida uma tela que diz que o software pode ser de origem desconhecida ou não confiável. Ignorar a mensagem e escolher a opção para "executar mesmo assim".
 
-##Uso
+## Uso
 
 __1-__ Descompactar pasta no diretório C:
 
