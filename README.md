@@ -1,7 +1,7 @@
 # Automatizador_Hydrus
 
 ## Descrição
-Este freeware gera N cópias de uma arquivo de referência do software HYDRUS, alterando as propriedades do material desejado. 
+Este freeware gera N cópias de um arquivo de referência do software HYDRUS, alterando as propriedades do material desejado. 
 
 As propriedades do material serão substituidas conforme dados de entrada fornecidos no arquivo de entrada específico.
 
