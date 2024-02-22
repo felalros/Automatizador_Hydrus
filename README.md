@@ -30,9 +30,19 @@ Ao rodar o arquivo .exe pode ser exibida uma tela que diz que o software pode se
 
 __1-__ Descompactar pasta no diretório C:
 
-__2-__ Colocar arquivo a ser copiado na pasta Pattern
+__2-__ Colocar seu arquivo de referência a ser copiado na pasta Pattern
 
-__3-__ Renomear arquivo e pasta do Hydrus a ser copiado para "Eq_Empirica"
+__3-__ Na pasta "Pattern" renomear arquivo e pasta do Hydrus a ser copiado para "Eq_Empirica"
+
+__Ex.:__ 
+
+O nome do arquivo deverá ser:
+
+Eq_empirica.h3d
+
+O nome da pasta deverá ser:
+
+H3D_Eq_empirica
 
 __4-__ Abrir o arquivo "Selector.IN" e substituir os parâmetros a serem alterados para
 
