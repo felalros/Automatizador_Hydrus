@@ -45,13 +45,13 @@ __Ex.:__
   H3D_Eq_empirica
 ```
 __4-__ Abrir o arquivo "Selector.IN" e substituir os parâmetros a serem alterados para
-
+```markdown
 thr_INPUT    ths_INPUT   alfa_INPUT     n_INPUT         ks_INPUT      l_INPUT
-
+```
 __5-__ Colocar os parâmetros a serem gerados na pasta "DadosEntrada" em um arquivo chamado "DADOS_ENTRADA.txt" com o seguinte cabeçalho:
-
+```markdown
 ID	thr	ths	Alfa	n	Ks
-
+```
 __6-__ Executar o programa 
 
 
