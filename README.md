@@ -36,13 +36,13 @@ __3-__ Na pasta "Pattern" renomear arquivo e pasta do Hydrus a ser copiado para 
 
 __Ex.:__ 
 
-O nome do arquivo deverá ser:
+  O nome do arquivo deverá ser:
 
-Eq_empirica.h3d
+  Eq_empirica.h3d
 
-O nome da pasta deverá ser:
+  O nome da pasta deverá ser:
 
-H3D_Eq_empirica
+  H3D_Eq_empirica
 
 __4-__ Abrir o arquivo "Selector.IN" e substituir os parâmetros a serem alterados para
 
