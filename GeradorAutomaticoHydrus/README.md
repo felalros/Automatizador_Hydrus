@@ -50,7 +50,7 @@ __1-__ É necessário atualizar o arquivo run.bat, pois o comando para rodar o H
 __2-__ Colocar os arquivos gerados pelo GeradorAutomáticoHydrus (level_01.dir + run.bat + paths...) na pasta do Hydrus (C:\Program Files (x86)\PC-Progress\HYDRUS 1.xx)
 
 
-__3-__ Executar o arquivo run.bat. Não é necessário rodar como administrador
+__3-__ Executar o arquivo run_hydrus_v1.exe com privilégios de administrador
 
 ## Citação
 Please cite the following thesis in any publication in which you find Automatizador_Hydrus was useful.
